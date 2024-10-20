@@ -1,3 +1,4 @@
+The code is python. 
 
 The provided code represents a framework for a 2D space shooter game,  inspired by the game Alien Invasion. It includes classes for managing game statistics, player scores, and ship mechanics.
 
